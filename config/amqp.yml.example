@@ -1,6 +1,8 @@
 connect:
-  host: 127.0.0.1
+  host: 206.189.85.8
   port: 5672
+  user: zenbitex
+  pass: P3gajahan
 
 exchange:
   trade:
